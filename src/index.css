@@ -300,6 +300,9 @@ Form
 .search-text {
   text-align: center;
 }
+.search-text:focus {
+  outline: solid 2px var(--darkGrey);
+}
 .search-form {
   width: var(--smallWidth);
   margin: 0 auto;
@@ -326,6 +329,7 @@ Form
   padding: 0.5rem;
   font-size: 1.2rem;
 }
+
 /* 
 ====== 
 Cocktail

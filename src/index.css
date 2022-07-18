@@ -294,11 +294,12 @@ Form
   margin-top: 1rem;
   padding-bottom: 0;
 }
-
+:focus-visible {
+  background-color: #bd0303;
+}
 .search-text {
   text-align: center;
 }
-
 .search-form {
   width: var(--smallWidth);
   margin: 0 auto;

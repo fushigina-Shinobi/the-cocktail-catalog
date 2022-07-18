@@ -1,15 +1,10 @@
-#### React Router Fix
+#### THE COCKTAIL CATALOG
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
-
-#### CRA Fix
+Catalog of various cockatails, find the ingridents and take note of how to make it.
+This project dives into the aspect of cocktail Api along with other react hooks.
 
 ```
 
 "build": "CI= react-scripts build",
 
-```
-
-```sh
-npm install react-router-dom@6
 ```
